@@ -15,9 +15,9 @@
  * along with this program; if not, write to the Free Software Foundation,
  * Inc., 51 Franklin Street, Fifth Floor, Boston, MA 02110-1301, USA.
  *
- * Developer: Dimitris Chloupis
+ * Developer: Alan Odom
  * 
- * The Original Code is Copyright (C) 2018 by Dimitris Chloupis
+ * The Original Code is Copyright (C) 2018 Alan Odom
  * All rights reserved.
  * ***** END GPL LICENSE BLOCK *****
  */"""
@@ -25,7 +25,7 @@
 bl_info={
 "name": "MIDI Nodes",
 "description": "MIDI NODES v 0.01",
-"author": "Clockmender",
+"author": "Alan Odom",
 "version": (0, 0, 1),
 "blender": (2, 80, 0),
 "location": "View3D > Tools Panel /Properties panel",
