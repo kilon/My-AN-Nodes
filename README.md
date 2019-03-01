@@ -70,21 +70,17 @@ Some updates may not be included in the latest release, the code can be obtained
 
 ## EDIT 26 Feb 2019:
 
-Updated the repo with the latest nodes today. MIDI nodes have been altered to reflect increased knowledge by myself and better working methods. MIDI/AUDO Live nodes are now loaded for user testing, these nodes are designed to take input from MIDI devices and sound input to drive animations.
-
-DAW nodes are new and VERY EXPERIMENTAL, i.e. not ready for use, they are here for collaboration purposes just now and require a great deal more work.
-
-Menu has been altered to separate the "Clockworx" and "ZeeCee MIDI" sections, DAW nodes are not in the menu yet.
-
-I have not included a relaease at this stage, nor have I updated the manual pages on my website yet.
-
-I need to make the Live MIDI into an Add-on at some stage, or maybe even all the nodes, but this will require more time.
+- Updated the repo with the latest nodes today. MIDI nodes have been altered to reflect increased knowledge by myself and better working methods. MIDI/AUDO Live nodes are now loaded for user testing, these nodes are designed to take input from MIDI devices and sound input to drive animations.
+- DAW nodes are new and VERY EXPERIMENTAL, i.e. not ready for use, they are here for collaboration purposes just now and require a great deal more work.
+- Menu has been altered to separate the "Clockworx" and "ZeeCee MIDI" sections, DAW nodes are not in the menu yet.
+-I have not included a relaease at this stage, nor have I updated the manual pages on my website yet.
+-I need to make the Live MIDI into an Add-on at some stage, or maybe even all the nodes, but this will require more time.
 
 My Vimeo Channel https://vimeo.com/user85352464
 
 ## EDIT 28 Feb 2019:
 
-Major revisions and new release- 2.0.3
+- Major revisions and new release- 2.0.3
 
 Cheers, Clock.
 
