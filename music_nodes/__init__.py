@@ -17,7 +17,7 @@
  *
  * Developer: Alan Odom
  * 
- * The Original Code is Copyright (C) 2018 Alan Odom
+ * The Original Code is Copyright (C) 2017 Alan Odom
  * All rights reserved.
  * ***** END GPL LICENSE BLOCK *****
  */"""
